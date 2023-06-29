@@ -1,0 +1,12 @@
+C:\Test\pract\Pract.common\bin\Debug\net6.0\Pract.Common.deps.json
+C:\Test\pract\Pract.common\bin\Debug\net6.0\Pract.Common.dll
+C:\Test\pract\Pract.common\bin\Debug\net6.0\Pract.Common.pdb
+C:\Test\pract\Pract.common\obj\Debug\net6.0\Pract.Common.csproj.AssemblyReference.cache
+C:\Test\pract\Pract.common\obj\Debug\net6.0\Pract.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\pract\Pract.common\obj\Debug\net6.0\Pract.Common.AssemblyInfoInputs.cache
+C:\Test\pract\Pract.common\obj\Debug\net6.0\Pract.Common.AssemblyInfo.cs
+C:\Test\pract\Pract.common\obj\Debug\net6.0\Pract.Common.csproj.CoreCompileInputs.cache
+C:\Test\pract\Pract.common\obj\Debug\net6.0\Pract.Common.dll
+C:\Test\pract\Pract.common\obj\Debug\net6.0\refint\Pract.Common.dll
+C:\Test\pract\Pract.common\obj\Debug\net6.0\Pract.Common.pdb
+C:\Test\pract\Pract.common\obj\Debug\net6.0\ref\Pract.Common.dll

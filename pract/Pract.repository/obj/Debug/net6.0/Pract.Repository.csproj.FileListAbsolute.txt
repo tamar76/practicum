@@ -1,0 +1,14 @@
+C:\Test\pract\Pract.repository\bin\Debug\net6.0\Pract.Repository.deps.json
+C:\Test\pract\Pract.repository\bin\Debug\net6.0\Pract.Repository.runtimeconfig.json
+C:\Test\pract\Pract.repository\bin\Debug\net6.0\Pract.Repository.dll
+C:\Test\pract\Pract.repository\bin\Debug\net6.0\Pract.Repository.pdb
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\Pract.Repository.csproj.AssemblyReference.cache
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\Pract.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\Pract.Repository.AssemblyInfoInputs.cache
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\Pract.Repository.AssemblyInfo.cs
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\Pract.Repository.csproj.CoreCompileInputs.cache
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\Pract.Repository.dll
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\refint\Pract.Repository.dll
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\Pract.Repository.pdb
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\Pract.Repository.genruntimeconfig.cache
+C:\Test\pract\Pract.repository\obj\Debug\net6.0\ref\Pract.Repository.dll
